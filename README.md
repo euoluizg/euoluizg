@@ -5,12 +5,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/euoluizg/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/euoluizg)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=euoluizg&show_icons=true&theme=dark&title_color=8C49FA&border_color=8C49FA&icon_color=21A58D" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=euoluizg&layout=compact&langs_count=8&card_width=320&theme=dark&border_color=8C49FA&title_color=8C49FA" />
-</a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=euoluizg&show_icons=true&theme=dark&title_color=8C49FA&border_color=8C49FA&icon_color=21A58D)>
 
 
 

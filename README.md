@@ -20,4 +20,3 @@
 </div>
 <br>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31zugdrtklbzhytrrmcyee4wxspq&cover_image=true&theme=novatorem&show_offline=true&background_color=101010&interchange=false&bar_color=8c49fa&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
